@@ -1,5 +1,5 @@
 ## About
-The project shows how to manage the embedded servers provided by Spring Boot using Maven profiles.
+Project created in the Spring Boot course.
 
 ## Technologies
 The following technologies were used in this project:
